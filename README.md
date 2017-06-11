@@ -1,1 +1,1 @@
-HTML-переадресация на хостинг http://shatalov.tmweb.ru/
+HTML-переадресация на виртуальный Хостинг - http://shatalov.tmweb.ru/
