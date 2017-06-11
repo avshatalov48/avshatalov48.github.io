@@ -1,1 +1,1 @@
-# avshatalov48.github.io
+HTML-переадресация на хостинг http://shatalov.tmweb.ru/
